@@ -6,6 +6,16 @@ this is my first mobile app developed in flutter!
 
 This project is a starting point for a Flutter application. Its main purpose is to generate motivational phrases randomly
 
+<p align="left">
+<img src="/images/app.png"/>
+</p>
+
+You can change the phrases by clicking the button below
+
+<p align="left">
+  <img src="/images/app1.png"/>
+</p>
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
